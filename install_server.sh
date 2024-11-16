@@ -715,7 +715,7 @@ auth:
 masquerade:
   type: proxy
   proxy:
-    url: https://news.ycombinator.com/
+    url: https://www.bing.com/
     rewriteHost: true
 EOF
 }
