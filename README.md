@@ -1,4 +1,4 @@
-# [Hysteria 2]一键脚本
+# [Hysteria 2]一键安装脚本
 
 hysteria2 一键安装纯净版
 
